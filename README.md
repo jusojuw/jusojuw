@@ -1,21 +1,10 @@
-- 👋 Hi, I’m @jusojuw
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-jusojuw/jusojuw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+SELAMAT DATANG!
 <!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Nokomi Prontshop</title>
+  <title>Nokomi PrintShop</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -69,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 <body>
 
 <header>
-  <h1>Nokomi Prontshop</h1>
+  <h1>Nokomi PrintShop</h1>
   <p>Solusi Cetak dan Desain Anda</p>
 </header>
 
@@ -81,8 +70,8 @@ You can click the Preview link to take a look at your changes.
 </nav>
 
 <section id="beranda">
-  <h2>Selamat Datang di Nokomi Prontshop</h2>
-  <p>Kami menyediakan layanan cetak dan desain berkualitas tinggi seperti nota custom, undangan, desain karikatur, dan banner. Dengan sentuhan profesional dan harga terjangkau, kami siap membantu kebutuhan percetakan Anda.</p>
+  <h2>Selamat Datang di Nokomi PrintShop</h2>
+  <p>Kami menyediakan layanan cetak dan desain berkualitas tinggi seperti nota custom, undangan, Jasa desain karikatur dan banner. Dengan sentuhan profesional dan harga terjangkau, kami siap membantu kebutuhan percetakan Anda.</p>
 </section>
 
 <section id="produk">
@@ -121,11 +110,11 @@ You can click the Preview link to take a look at your changes.
   <h2>Kontak Kami</h2>
   <p>WhatsApp: <a href="https://wa.me/6281234567890">+62 812-3456-7890</a></p>
   <p>Instagram: <a href="https://instagram.com/nokomi.printshop">@nokomi.printshop</a></p>
-  <p>Alamat: Jl. Contoh Alamat No. 123, Kota Anda</p>
+  <p>Alamat: Jl. Sengkawit , Tanjung Selor</p>
 </section>
 
 <footer>
-  <p>&copy; 2025 Nokomi Prontshop. All rights reserved.</p>
+  <p>&copy; 2025 Nokomi PrintShop. All rights reserved.</p>
 </footer>
 
 </body>
