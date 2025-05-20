@@ -108,8 +108,8 @@ SELAMAT DATANG!
 
 <section id="kontak">
   <h2>Kontak Kami</h2>
-  <p>WhatsApp: <a href="https://wa.me/6281234567890">+62 812-3456-7890</a></p>
-  <p>Instagram: <a href="https://instagram.com/nokomi.printshop">@nokomi.printshop</a></p>
+  <p>WhatsApp: <a href=https://wa.link/trmn3y</a></p>
+  <p>Instagram: <a href="https://instagram.com/nokomi.printshop">@nokomi_printshop</a></p>
   <p>Alamat: Jl. Sengkawit , Tanjung Selor</p>
 </section>
 
